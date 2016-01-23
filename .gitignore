@@ -1,0 +1,2 @@
+#We need to create a .gitignore file and add .log files.
+.log
