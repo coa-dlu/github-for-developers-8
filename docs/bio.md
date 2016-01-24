@@ -4,3 +4,4 @@ here's the bios:
 *ice-cream*
 *food tasting*
 *green*
+*learning*
